@@ -11,10 +11,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+  subtitle: Software Engineer
   title: Rodrigo Bustamante
 sections:
   - background_style: style1
